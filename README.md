@@ -12,8 +12,8 @@ Here is a breakdown of what contains the various files:
 ## How to use this repos?
 Clone the repos
 ```
-git clone https://github.com/woernfl/terraform-ovh-node-creation.git
-cd terraform-ovh-node-creation
+git clone git@gitlab.com:onmyown-open-source/terraform-ovh-node-managment.git
+cd terraform-ovh-node-managment
 ```
 Initalise Terraform
 ```
